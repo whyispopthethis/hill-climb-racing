@@ -1,0 +1,15 @@
+/* Hill Climb Racing Game Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #e0f7fa;
+}
+
+canvas {
+    border: 1px solid #000;
+}
